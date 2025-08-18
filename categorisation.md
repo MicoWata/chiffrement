@@ -1,11 +1,12 @@
-# 3. Catégorisation
+# Catégorisation
 
-Symétrique ou pas ?
+### Symétrique ou pas ?
 
+| | Symétrique | Asymétrique |
+| --- | --- | --- |
+| J'ai 3 colocs. Tout le monde a une copie de la clé. | <input type="checkbox" disabled checked /> | - [ ] ok |
 
-1. J'ai 3 colocs. Tout le monde a une copie de la clé.
-
-symétrique
+<input type="checkbox" disabled checked />
 
 2. Le facteur vient porter le courrier dans les boîtes aux lettres d'un grand édiffice.
 
