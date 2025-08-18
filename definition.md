@@ -1,26 +1,31 @@
 # Définition
 
-Le chiffrement symétrique, c'est ...
+Le chiffrement **symétrique**, c'est ...
 
-crypter et décrypter un document à l'aide d'une clé
-
----
-
-Le chiffrement asymétrique, c'est ...
-
-même chose mais avec au moins 2 clés, une publique, l'autre privée
+crypter et décrypter un document à l'aide _d'une clé_
 
 ---
 
-Pourquoi ROT13 n'est ni l'un ni l'autre ?
+Le chiffrement **asymétrique**, c'est ...
 
-Le chiffrement césar est-il un procédé symétrique ou asymétrique ?
+même chose mais avec _au moins 2 clés_
 
 ---
 
-Avantages et inconvénients
+|Pourquoi ROT13 n'est ni l'un ni l'autre ?|
+|---|
+|Réponse :   |
 
-Symétrique : Rapide mais la clé devient un risque à considérer
 
-Asymétrique : Lent mais permet le partage sécuritaire d'une clé
+|Le chiffrement césar est-il un procédé symétrique ou asymétrique ?|
+|---|
+|Réponse :   |
+
+---
+
+|             | Symétrique | Asymétrique |
+| ---         | ---        | ---         |
+|Avantage     |            |             |
+|inconvénient |            |             |
+
 
