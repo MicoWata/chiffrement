@@ -1,35 +1,56 @@
 # Démonstration
 
-Rendre césar asymétrique
+### Objectif : Rendre césar asymétrique
 
+---
 
-Document : Banane
+Voici le contenu d'un document top secret
 
-Clé : 1
+> banane
 
-Banane devient cbobof
+Voici notre clé
 
+> 1
 
-Le problème n'est pas de passer le message crypté à mon collègue, mais de lui passer la clé.
+Avec cette clé, le contenu de notre document, une fois crypté, devient
 
-(essayer de passer un papier avec la clé secrètement mais la révéler par accident)
+> cbobof
 
+---
 
-Version asymétrique
+Le problème ici n'est pas de passer le message crypté à mon collègue, mais de lui passer la clé.
 
-Ma clé privée : 1
+(Démonstration)
 
-La clé publique : 2, donc 1 + 2 = 3
+---
 
-banane devient edqdqh
+### César asymétrique
 
+---
 
-Faire comme si je vevais de recevoir un message.
+Voici ma clé privée
+
+> 1
+
+La clé publique
+
+> 2
+
+Mon algorithme secret
+
+> 1 + 2 = 3
+
+Ainsi, le contenu de mon document devient 
+
+> edqdqh
+
+---
 
 Je peux vous montrer la clé publique, mais vous manquez d'information pour savoir quel est le vrai message.
 
-J'ai pas besoin de montrer ma clé privée à personne.
+Je n'ai besoin de montrer ma clé privée à personne.
 
+---
 
 Mais on a toujours un problème. Comment partager ce message ?
 
