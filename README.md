@@ -1,18 +1,20 @@
 # Objectif
 
-« Expliquer les concepts de chiffrement symétrique et asymétrique et leurs applications . »
+« Expliquer les concepts de chiffrement symétrique et asymétrique et leurs applications. »
 
+10 minutes
 
 # Contexte
 
-Sécurité informatique ou Bases de données et sécurité des applications
+Session 3
 
-Cours 3 ou 4 de la session.
+Cours : Sécurité informatique || Bases de données et sécurité des applications
 
+Classe 3 ou 4 de la session
 
 Acquis :
 
-Les concepts de chiffrement et de cryptographie
+- Les concepts de chiffrement et de cryptographie
 
 Quelques exemples de chiffrement (ROT13, César, Enigma, Verlan)
 
