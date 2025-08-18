@@ -4,43 +4,15 @@
 
 | | Symétrique | Asymétrique |
 | --- | --- | --- |
-| J'ai 3 colocs. Tout le monde a une copie de la clé. | <input type="checkbox" disabled checked /> | - [ ] ok |
+| J'ai 3 colocs. Tout le monde a une copie de la clé. | <details><summary></summary>😄</details> | <details><summary></summary>😢 Est-ce que chacun a une clé différente ? </details> |
+| Le facteur vient porter le courrier dans les boîtes aux lettres d'un grand édiffice. | <details><summary></summary>😢 Le facteur a-t-il la même clé que les résidents ? </details> | <details><summary></summary>😄</details> |
+| Mon voisin et moi, on parle ensemble le soir avec nos walkie-talkie. | <details><summary></summary>😃</details> | <details><summary></summary>😢 Parlent-ils ensemble sur plus d'une fréquence radio ? </details> |
+|J'ai oublié ma puce et je ne peux pas entrer dans mon édifice. | <details><summary></summary>😄</details> | <details><summary></summary>😢 La puce content sa clé privée, mais c'est une clé publique qui est envoyée afin de vérifier l'autorisation.</details> |
+|Pour me connecter, je dois confirmer mon identité avec un code envoyé à mon adresse courriel| <details><summary></summary>😢 Le mot de passe est une clé, le code envoyé par courriel en est une autre.</details> | <details><summary></summary>😃</details> |
+|Je me connecte à mon compte omnivox.| <details><summary></summary>😃</details> | <details><summary></summary>😃</details> |
+|Je vend un Bitcoin.| <details><summary></summary>😃</details> | <details><summary></summary>😃</details> |
+|Je partage mon compte Netflix et avec mon cousin.| <details><summary></summary>😃</details> | <details><summary></summary>😢</details> |
+|...| <details><summary></summary>😃</details> | <details><summary></summary>😃</details> |
+|Je me connecte a une réunion virtuelle privée.| <details><summary></summary>😢</details> | <details><summary></summary>😃</details> |
 
-<input type="checkbox" disabled checked />
-
-2. Le facteur vient porter le courrier dans les boîtes aux lettres d'un grand édiffice.
-
-asymétrique
-
-3. Mon voisin et moi, on parle ensemble le soir avec nos walkie-talkie.
-
-symétrique, on parle sur la même fréquence radio.
-
-4. C'est toi le boss. Ta puce te permet de passer l'entrée principale et la porte de ton bureau.
-
-asymétrique
-
-8. Pour me connecter, je dois confirmer mon identité avec un code envoyé à mon adresse courriel
-
-asymétrique
-
-5. Je me connecte à mon compte omnivox.
-
-symétrique
-
-6. Je vend un Bitcoin.
-
-asymétrique
-
-7. Je partage mon compte Netflix et avec mon cousin.
-
-symétrique
-
-9. Je place une apikey dans mes variables globales.
-
-symétrique
-
-10. Je me connecte a une réunion virtuelle privée.
-
-asymétrique
 
