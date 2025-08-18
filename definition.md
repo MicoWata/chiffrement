@@ -2,13 +2,13 @@
 
 Le chiffrement **symétrique**, c'est ...
 
-crypter et décrypter un document à l'aide _d'une clé_
+chiffrer et déchiffrer un document à l'aide _d'une seule clé_
 
 ---
 
 Le chiffrement **asymétrique**, c'est ...
 
-même chose mais avec _au moins 2 clés_
+la même chose mais avec _au moins 2 clés_, une pour chiffrer et l'autre pour déchiffrer
 
 ---
 
