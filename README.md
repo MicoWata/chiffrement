@@ -4,6 +4,7 @@
 
 10 minutes
 
+
 # Contexte
 
 Session 3
@@ -16,24 +17,29 @@ Acquis :
 
 - Les concepts de chiffrement et de cryptographie
 
-Quelques exemples de chiffrement (ROT13, César, Enigma, Verlan)
+- Quelques exemples de chiffrement (ROT13, César, Enigma, Verlan)
 
-Un bref historique pour plusieurs cas d'usage de la cryptographie.
+- Un bref historique pour plusieurs cas d'usage de la cryptographie.
 
-La distinction entre mot de passe et clé
+- La distinction entre mot de passe et clé
 
 
 # À suivre
 
 Des exemples actuels : DES et RSA
 
+Exploration : Choisir une méthode de chiffrement (liste fournie) et la présenter en classe.
+
 La pertinence des opérations modulaires et exponentielles
 
 Démonstration : Chiffrement César avec génération de clé modulaire
 
-Génération de clés publiques
-
-Comment les services web combinent les 2 méthodes.
-
 Atelier : améliorer le cryptage d'une implémentation du chiffrement César
+
+Méthodes actuelles de génération de clés publiques
+
+Comment les services web actuels combinent généralement les 2 méthodes
+
+Atelier : développer un service de cryptage et décryptage. Présentations en classe.
+
 
