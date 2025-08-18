@@ -1,6 +1,6 @@
 # Définition
 
-Le chiffrement ==symétrique==, c'est ...
+Le chiffrement symétrique, c'est ...
 
 crypter et décrypter un document à l'aide d'une clé
 
