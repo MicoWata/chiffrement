@@ -35,7 +35,7 @@ Voici ma clé privée
 
 > 1
 
-Mon algorithme secret
+Mon algorithme de chiffrement
 
 > | chiffrement | déchiffrement |
 > | ---         | ---           |
@@ -52,6 +52,8 @@ Le contenu de mon document reste le même
 ---
 
 Je peux vous montrer la clé publique, mais vous manquez encore d'information pour déchiffrer le message.
+
+(Démonstration)
 
 ---
 
