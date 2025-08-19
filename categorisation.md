@@ -23,7 +23,7 @@ Qu'ont en commun les situations asymétriques ?
 
 Réponses
 
-> <details><summary></summary>La clé privée n'a pas besoin d'être partagée</details>
-> <details><summary></summary>On partage des informations sensibles</details>
-> <details><summary></summary>La rapidité de l'opération ne prime pas sur sa sécurité</details>
+> <details><summary></summary>La clé privée n'a pas besoin d'être partagée.</details>
+> <details><summary></summary>On partage des informations sensibles.</details>
+> <details><summary></summary>La rapidité de l'opération ne prime pas sur sa sécurité.</details>
 > <details><summary></summary>Bravo ! 😃</details>
