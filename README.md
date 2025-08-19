@@ -33,10 +33,10 @@ Démonstration : Chiffrement César avec génération de clé modulaire
 
 Exploration : Choisir une méthode de chiffrement (liste fournie) et la présenter en classe
 
-Atelier : améliorer le cryptage d'une implémentation du chiffrement César
+Atelier : améliorer le chiffrement de votre implémentation du chiffrement César
 
 Comment les services web actuels combinent généralement les 2 méthodes
 
-Atelier : développer un service de cryptage et décryptage et le présenter en classe
+Atelier : développer un service de chiffrement et déchiffrement puis le présenter en classe
 
 
