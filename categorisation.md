@@ -15,9 +15,9 @@ Qu'ont en commun les situations asymétriques ?
 <details><summary>Situations de chiffrement asymétrique</summary>
 </br>
 <ul>
+  <li>Le facteur apporte le courrier dans les boîtes aux lettres d'un édifice.</li>
   <li>J'utilise mon compte Google pour me connecter à un service web.</li>
   <li>Je vend un Bitcoin.</li>
-  <li>Je me connecte a une réunion virtuelle privée.</li>
 </ul>
 </details>
 
