@@ -23,23 +23,20 @@ Acquis :
 
 - La distinction entre mot de passe et clé
 
-
-# À suivre
+# À suivre 
 
 Des exemples actuels : DES et RSA
 
-Exploration : Choisir une méthode de chiffrement (liste fournie) et la présenter en classe.
-
-La pertinence des opérations modulaires et exponentielles
+Les opérations modulaires et exponentielles en cryptographie 
 
 Démonstration : Chiffrement César avec génération de clé modulaire
 
-Atelier : améliorer le cryptage d'une implémentation du chiffrement César
+Exploration : Choisir une méthode de chiffrement (liste fournie) et la présenter en classe
 
-Méthodes actuelles de génération de clés publiques
+Atelier : améliorer le cryptage d'une implémentation du chiffrement César
 
 Comment les services web actuels combinent généralement les 2 méthodes
 
-Atelier : développer un service de cryptage et décryptage. Présentations en classe.
+Atelier : développer un service de cryptage et décryptage et le présenter en classe
 
 
