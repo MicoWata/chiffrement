@@ -26,6 +26,6 @@ Le chiffrement césar est-il un procédé symétrique ou asymétrique ?
 |             | Symétrique | Asymétrique |
 | ---         | ---        | ---         |
 |Avantage     | <details><summary></summary>Rapide</details> | <details><summary></summary>Sécuritaire</details> |
-|inconvénient | <details><summary></summary>Peu sécure</details> | <details><summary></summary>Lent</details> |
+|Inconvénient | <details><summary></summary>Moins sécuritaire</details> | <details><summary></summary>Lent</details> |
 
 
