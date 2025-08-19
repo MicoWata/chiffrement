@@ -37,8 +37,9 @@ Voici ma clé privée
 
 Mon algorithme secret
 
-> chiffrement : clé * 3
-> déchiffrement : clé / 3
+> | chiffrement | déchiffrement |
+> | ---         | ---           |
+> | clé * 3     |       clé / 3 |
 
 La clé publique
 
