@@ -4,6 +4,9 @@
 
 ---
 
+### César symétrique
+
+---
 Voici le contenu d'un document top secret
 
 > banane
@@ -12,13 +15,13 @@ Voici notre clé
 
 > 1
 
-Avec cette clé, le contenu de notre document, une fois crypté, devient
+Avec cette clé, le contenu de notre document, une fois chiffré, devient
 
 > cbobof
 
 ---
 
-Le problème ici n'est pas de passer le message crypté à mon collègue, mais de lui passer la clé.
+Le problème ici n'est pas de passer le message chiffré à mon collègue, mais de lui passer la clé.
 
 (Démonstration)
 
@@ -32,25 +35,28 @@ Voici ma clé privée
 
 > 1
 
-La clé publique
-
-> 2
-
 Mon algorithme secret
 
-> 1 + 2 = 3
+> chiffrement : clé * 3
+> déchiffrement : clé / 3
 
-Ainsi, le contenu de mon document devient 
+La clé publique
 
-> edqdqh
+> 3
+
+Le contenu de mon document reste le même
+
+> cbobof
 
 ---
 
-Je peux vous montrer la clé publique, mais vous manquez d'information pour savoir quel est le vrai message.
-
-Je n'ai besoin de montrer ma clé privée à personne.
+Je peux vous montrer la clé publique, mais vous manquez encore d'information pour déchiffrer le message.
 
 ---
 
-Mais on a toujours un problème. Comment partager ce message ?
+Quelles sont les faiblesses de cet example ?
+
+><details><summary></summary>L'algorithme est terriblement faible.</details>
+><details><summary></summary>Si je connais l'algorithme, je peux trouver la clé privée.</details>
+><details><summary></summary>Si je connais l'opération de déchiffrement, je peux l'inverser pour trouver la clé de chiffrement et obtenir la clé privée.</details>
 
