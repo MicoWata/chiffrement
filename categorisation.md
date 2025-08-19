@@ -7,8 +7,6 @@
 | J'ouvre ma session sur mon ordinateur.| <details><summary></summary>😃</details> | <details><summary></summary>😢 L'opération est locale et ne nécessite pas de communication sécurisée.</details> |
 | J'utilise mon compte Google pour me connecter à un service web.| <details><summary></summary>😢 Le service web ne reçoit jamais votre mot de passe Google (la clé secrète). </details> | <details><summary></summary>😃</details> |
 | Je vends un Bitcoin.| <details><summary></summary>😢 L'opération nécessite de prouver que vous êtes bien le propriétaire du portefeuille.</details> | <details><summary></summary>😃</details> |
-| Je me connecte a une réunion virtuelle privée.| <details><summary></summary>😢 Pour la connexion seulement, l'identité est vérifiée avec une clé publique envoyée au serveur. </details> | <details><summary></summary>😃</details> |
-| Je partage un lien vers une image que j'ai mise en ligne. | <details><summary></summary>😃</details> | <details><summary></summary>😢 Le lien en question sert de clé. Aucune sécurité nécessaire. </details> |
 
 ---
 
